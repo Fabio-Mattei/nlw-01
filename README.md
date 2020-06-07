@@ -42,6 +42,7 @@ Mobile
 🚩 Tanto o Frontend quanto o Mobile precisam que o Backend esteja sendo executado para funcionar.
 
 Pré-requisitos
+
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 
 Git
